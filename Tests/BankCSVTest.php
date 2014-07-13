@@ -1,6 +1,5 @@
 <?php
-
-require_once("bank_csv.php");
+require_once("BankCSV.class.php");
 
 class testBankcsv extends PHPUnit_Framework_TestCase
 {
